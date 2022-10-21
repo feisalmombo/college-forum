@@ -1,0 +1,51 @@
+.main-content{
+    margin: 2em 0 2em 0;
+
+    .card-title{
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+    }
+}
+
+.my-avatar{
+    width: 100px;
+}
+.follows{
+    width: 70px
+}
+
+.footer{
+    background-color: #4D4D4D;
+    padding: 5px 0 5px 0;
+    span{
+        color: white;
+        text-align: center;
+        font-size: 15px;
+    }
+}
+
+.d-block{
+    color: white;
+}
+
+.lead {
+    text-align: center;
+}
+
+.header-color {
+	background-color: #4D4D4D;
+}
+
+.heading-p {
+	font-size-adjust: 0.58;
+	font-weight: normal;
+}
+
+.yz {
+	margin-top: 20px;
+}
+
+.avatar-round {
+	width: 50px;
+}
